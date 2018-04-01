@@ -3,6 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Downloads/stdlib (1).jar"/>
-	<classpathentry kind="lib" path="F:/Shanka academics/Shanka Assignment 8_23/Algo cw/stdlib(4).jar"/>
+	<classpathentry kind="lib" path="C:\Users\U s E r ™\Documents\GitHub\Squared_Grid_Navigation_Algorithm\\Other Files\stdlib(4).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
